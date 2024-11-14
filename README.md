@@ -1,7 +1,8 @@
 ### Wladimir Ribeiro de Souza
 
-- Trabalhando com desenvolvimento mobile com Xamarin Forms
-- Atualmente estudando DevOps, Linux, Vagrant
+- Desenvolvedor mobile .NET MAUI / Xamarin Forms
+- Desenvolvedor back-end utilizando .NET Core
+- Conhecedor e entusiasta em DevOps, Linux.
 
 
 <div align="left">
