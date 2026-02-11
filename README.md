@@ -1,8 +1,6 @@
 ### Wladimir Ribeiro de Souza
 
-- Desenvolvedor mobile .NET MAUI / Xamarin Forms
-- Desenvolvedor back-end utilizando .NET Core
-- Conhecedor e entusiasta em DevOps, Linux.
+Desenvolvedor de Software especializado no ecossistema .NET, com foco na criação de experiências móveis de alta performance utilizando .NET MAUI e Xamarin.Forms. No backend, projeto e implemento Web APIs escaláveis e resilientes sob a arquitetura .NET Core. entusiasta da cultura DevOps, busco constantemente a otimização de fluxos de trabalho através de automação com n8n, Docker e ambientes Linux.
 
 
 ![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
