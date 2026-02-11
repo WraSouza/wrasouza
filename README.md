@@ -12,11 +12,11 @@ Desenvolvedor de Software especializado no ecossistema .NET, com foco na cria√ß√
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-  
-
-  
   <div> 
   <a href="https://www.linkedin.com/in/wladimir-ribeiro-5b70531a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 </div>
+
+</br>
+Software Developer specialized in the .NET ecosystem, with a primary focus on crafting high-performance mobile experiences using .NET MAUI and Xamarin.Forms. On the backend, I design and implement scalable, resilient Web APIs powered by .NET Core. As a DevOps enthusiast, I am constantly seeking to optimize workflows through automation using n8n, Docker, and Linux environments.
 
